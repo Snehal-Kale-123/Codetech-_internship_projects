@@ -1,0 +1,28 @@
+                                         Divya Kale
+Full Stack Developer | Fresher     | divya.kale@email.com   | Phone: +91 98765 43210 
+                                              | LinkedIn: linkedin.com/in/divya-kale 
+PROFESSIONAL SUMMARY
+B.Tech Computer Engineering Fresher with strong Python skills
+Passionate about web development and data processing
+Internship-ready with hands-on projects
+TECHNICAL SKILLS
+Programming: Python, JavaScript, Java, C++
+Web: HTML, CSS, React, Node.js
+Database: SQL, MySQL
+Tools: Git, GitHub, VS Code, Postman
+Frameworks: Django, Flask
+Others: Linux, Docker, AWS (Basics)
+EDUCATION
+B.Tech Computer Engineering | 2023-2027
+XYZ College of Engineering | 8.5 CGPA
+PROJECTS
+1. Resume Parser (Python) - Extracted candidate data from text files
+2. Customer Chatbot - Rule-based AI for support queries  
+3. Stock Dashboard - Real-time API data visualization
+EXPERIENCE
+Python Developer Intern | TechStartups | Jun 2024 - Present
+- Developed automation scripts
+- API integration projects
+CERTIFICATIONS
+- Python for Everybody (Coursera)
+- Web Development Bootcamp (Udemy)

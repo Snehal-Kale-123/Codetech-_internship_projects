@@ -1,0 +1,48 @@
+[
+  {
+    "filename": "Sample_Resume.txt",
+    "name": "Divya Kale",
+    "email": "divya.kale@email.com",
+    "phone": "No Phone Found",
+    "skills": [
+      "PYTHON",
+      "JAVA",
+      "JAVASCRIPT",
+      "JS",
+      "HTML",
+      "CSS",
+      "REACT",
+      "NODE",
+      "SQL",
+      "MYSQL",
+      "GIT",
+      "GITHUB",
+      "DOCKER",
+      "AWS",
+      "LINUX",
+      "C++",
+      "DJANGO",
+      "FLASK"
+    ],
+    "total_skills": 18,
+    "processed_at": "2026-04-07T20:22:21.754270"
+  },
+  {
+    "filename": "Snehal_Kale_Resume.txt",
+    "name": "Snehal Machindra",
+    "email": "snehalmkale2005@gmail.com",
+    "phone": "No Phone Found",
+    "skills": [
+      "JAVA",
+      "HTML",
+      "CSS",
+      "SQL",
+      "MYSQL",
+      "GIT",
+      "GITHUB",
+      "C++"
+    ],
+    "total_skills": 8,
+    "processed_at": "2026-04-07T20:22:21.922146"
+  }
+]

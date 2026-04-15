@@ -1,0 +1,38 @@
+[
+  {
+    "filename": "Sample_Resume.txt",
+    "name": "Divya Kale",
+    "email": "divya.kale@email.com",
+    "phone": "No Phone",
+    "skills": [
+      "PYTHON",
+      "JAVA",
+      "JAVASCRIPT",
+      "HTML",
+      "CSS",
+      "REACT",
+      "NODE",
+      "SQL",
+      "MYSQL",
+      "GIT",
+      "DOCKER",
+      "AWS"
+    ],
+    "processed_at": "2026-04-07T20:20:44.032801"
+  },
+  {
+    "filename": "Snehal_Kale_Resume.txt",
+    "name": "Snehal Machindra",
+    "email": "snehalmkale2005@gmail.com",
+    "phone": "No Phone",
+    "skills": [
+      "JAVA",
+      "HTML",
+      "CSS",
+      "SQL",
+      "MYSQL",
+      "GIT"
+    ],
+    "processed_at": "2026-04-07T20:20:44.255110"
+  }
+]
