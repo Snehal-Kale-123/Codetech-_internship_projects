@@ -1,0 +1,20 @@
+[
+  {
+    "symbol": "IBM",
+    "price": 246.74,
+    "change": -1.42,
+    "change_percent": -0.5722,
+    "volume": 3376019,
+    "timestamp": "2026-04-06",
+    "fetched_at": "2026-04-07T23:29:55.180179"
+  },
+  {
+    "symbol": "MSFT",
+    "price": 372.88,
+    "change": -0.58,
+    "change_percent": -0.1553,
+    "volume": 16146572,
+    "timestamp": "2026-04-06",
+    "fetched_at": "2026-04-07T23:29:59.376833"
+  }
+]
