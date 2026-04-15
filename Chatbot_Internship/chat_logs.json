@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2026-04-07 20:35:29",
+    "user_message": "hellow!",
+    "bot_response": "Hello! Welcome to Codec Technologies Customer Support \ud83d\ude0a\nHow can I assist you today?"
+  },
+  {
+    "timestamp": "2026-04-07 20:36:13",
+    "user_message": "give me the examples of softskills",
+    "bot_response": "I understand you're asking about something specific.\nPlease try:\n- \"What are your services?\"\n- \"What is pricing?\"\n- \"Contact details\"\n- \"Office hours\"\n- Or describe your issue! \ud83d\ude0a"
+  },
+  {
+    "timestamp": "2026-04-07 21:24:14",
+    "user_message": "hello",
+    "bot_response": "Hello! Welcome to Codec Technologies Customer Support \ud83d\ude0a\nHow can I assist you today?"
+  },
+  {
+    "timestamp": "2026-04-07 21:25:09",
+    "user_message": "ur contatct details",
+    "bot_response": "I understand you're asking about something specific.\nPlease try:\n- \"What are your services?\"\n- \"What is pricing?\"\n- \"Contact details\"\n- \"Office hours\"\n- Or describe your issue! \ud83d\ude0a"
+  },
+  {
+    "timestamp": "2026-04-07 21:25:27",
+    "user_message": "contact details",
+    "bot_response": "Contact Us:\n\ud83d\udce7 Email: support@codec.in\n\ud83d\udcde Phone: +91 22-12345678\n\ud83d\udcac WhatsApp: +91 9876543210\n\ud83c\udf10 Website: www.codec.in/contact\n\u23f0 Response: Within 2 hours (9AM-7PM IST)"
+  }
+]
